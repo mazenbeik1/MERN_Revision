@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "NodeServer": "nodemon Node(Alternative).js",
-    "Express": "nodemon express.js"
+    "Express": "nodemon express.js",
+    "server": "node express.js"
   },
   "author": "",
   "license": "ISC",
